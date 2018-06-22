@@ -1,6 +1,6 @@
 {application, cuesport, [
   {description, "Simple pool of workers"},
-  {vsn, "0.1"},
+  {vsn, "0.1.1"},
   {registered, []},
   {applications, [kernel, stdlib]},
   {env, []}
